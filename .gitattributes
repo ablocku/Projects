@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+import tkinter as tk
+from tkinter import filedialog, Text
+
+import os
